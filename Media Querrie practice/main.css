@@ -1,0 +1,27 @@
+body {
+  background: pink;
+}
+
+.banner {
+  background: aquamarine;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: capitalize;
+}
+
+@media screen and (min-width: 576 px) {
+  body {
+    background: red;
+  }
+  .banner {
+    background: yellow;
+  }
+  h1 {
+    color: blue;
+    font-size: 80px;
+  }
+}

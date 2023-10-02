@@ -1,0 +1,15 @@
+/* Id selectors */
+#Tittle {
+  color: blue;
+  background-color: green;
+}
+
+#bg-blue {
+  color: blueviolet;
+  background: black;
+}
+
+.green {
+  color: green;
+  background: burlywood;
+}

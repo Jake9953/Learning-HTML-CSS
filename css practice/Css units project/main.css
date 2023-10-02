@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+}
+
+#navbar {
+  height: 45px;
+  background: red;
+}
+.Logo {
+  font-size: 20px;
+  color: aqua;
+}
+.Hero {
+  color: blue;
+  background: pink;
+  min-height: calc(100vh - 45px);
+}
+.We {
+  color: coral;
+  font-size: 30px;
+}
+.Hero-btn {
+  background: cyan;
+  color: violet;
+  border-radius: 15px;
+}

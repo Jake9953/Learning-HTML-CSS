@@ -1,0 +1,22 @@
+h1,
+p {
+  color: white;
+}
+h1 {
+  background: rgb(9, 226, 255);
+  padding-top: 30px;
+  padding-left: 40px;
+  padding-bottom: 15px;
+  padding-right: 36px;
+  margin: 3rem;
+}
+
+p {
+  background: rgb(253, 7, 241);
+  border: solid;
+  border-color: aqua;
+  border-style: ridge;
+  border-width: 20px;
+  padding: 40px;
+  border-radius: 20px;
+}

@@ -30,7 +30,11 @@ body {
   background: lightcoral;
 }
 
-.container{
+.container {
+  height: 300px;
+  height: 40vh;
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-items: baseline;
 }
-  
